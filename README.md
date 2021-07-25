@@ -6,9 +6,9 @@ More infomation please read the origin project [cors-anywhere](https://github.co
 
 ## Usage
 
-First apply for a certificate use [acme.sh](https://github.com/acmesh-official/acme.sh). It will generate several file, we only use `YOUR.DOMAIN.com.key` and `fullchain.cer`.
+First apply for a certificate use [acme.sh](https://github.com/acmesh-official/acme.sh). It will generate several files, we only use `YOUR.DOMAIN.com.key` and `fullchain.cer`.
 
-Seconde put the js file in your server.
+Second put the js file in your server.
 
 Finally, run it.
 
